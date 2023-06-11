@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-acorn
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,7 +105,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/whitlock23/whitlock23.github.io.git
-  branch: master
+  branch: main
   token: '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'
 
 

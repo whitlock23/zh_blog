@@ -1,0 +1,21 @@
+## 画廊
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 出道专特典 𝐏𝐀𝐑𝐓𝟔. 「琴洲晚玫」空调毯
+  en_name: 
+  description: 尺寸:100×150cm 材质：正面法兰绒、背面羊羔绒 毛毯材质不厚重，可冬夏两用，Rosin宝宝夏天吹空调的时候也可以盖，防止着凉～ 无需补专只需补邮；全款预售；仔细阅读商品详情）
+  cover: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photoswdseller1667111090-106c00000188a5dc91540a2313be_1240_1654.jpg.webp
+  link: https://weidian.com/item.html?itemID=6384576916&wfr=c&ifr=itemdetail&source=goods_home&sfr=app&continueFlag=93126891b7c30b1fcf299dfea03717c8
+  preview: 
+
+- name: 出道专特典 𝐏𝐀𝐑𝐓𝟓. 「游星轨迹」星星耳钉
+  en_name: 
+  description: 胸针构成：星星链条+配件装饰 星星链条由一颗星星和一条金色链子构成，是这枚胸针的基础款式，不可拆卸。另一边的配件装饰自选，各位Rosin宝宝可以根据喜好进行购买。
+  cover: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photoswd5.webp
+  link: https://weidian.com/item.html?itemID=6368321666&wfr=c&ifr=itemdetail&source=goods_home&sfr=app&continueFlag=93126891b7c30b1fcf299dfea03717c8
+  preview: 

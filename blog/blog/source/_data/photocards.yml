@@ -1,0 +1,21 @@
+## 画廊
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: cgv 小卡
+  en_name: 
+  description: 
+  cover: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photos2023-06-11%20194732.jpg
+  link: /photocards
+  preview: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photos2023-06-11%20194732.jpg
+
+- name: kcon 小卡
+  en_name: 
+  description: 
+  link: /photocards
+  cover: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photos202306112031859.jpeg
+  preview: https://zb1-1318619466.cos.ap-shanghai.myqcloud.com/photos202306112031859.jpeg

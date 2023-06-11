@@ -1,0 +1,28 @@
+## 企业文化
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# cover_size:   封面图片大小
+# link:         链接路径，无链接为空即可
+#
+- name: 章昊介绍
+  en_name: 
+  description: 章昊(장하오)，韩国组合ZEROBASEONE（ZB1）C位，韩国选秀节目《BOYSPLANET》第一名出道，2000年7月25日出生于中国福建,身高180.5，毕业于福建师范大学，所属公司：乐华娱乐
+  cover: /images/sample/p611308447.webp
+  cover_size: 64
+  link: 
+
+- name: test
+  en_name: 
+  description: 不知道放啥先这样
+  cover: /images/sample/p611308447.webp
+  cover_size: 64
+  link:
+
+- name: test
+  en_name: 
+  description: 不知道放啥先这样
+  cover: /images/sample/p611308447.webp
+  cover_size: 64
+  link:

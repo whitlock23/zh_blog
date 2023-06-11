@@ -1,0 +1,16 @@
+## 客户称赞
+# number:   ID 不可为空，从 0 开始
+# name:     客户名称
+# words:    客户的称赞内容
+#
+- number: 0
+  name: 章昊
+  words: 章昊在哪里都是第一名
+
+- number: 1
+  name: 章昊
+  words: 我会成为你们的光。
+
+- number: 2
+  name: 章昊
+  words: 爱我吧！
